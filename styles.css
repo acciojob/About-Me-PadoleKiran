@@ -1,1 +1,37 @@
+body {
+  background: linear-gradient(135deg, #141e30, #243b55);
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+}
 
+.profile-container {
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 2px solid #00ff99;
+}
+
+h2 {
+  color: #00ffcc;
+  border-bottom: 2px solid #00ffcc;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+p, a {
+  color: #f8f9fa;
+  font-size: 1rem;
+}
+
+a:hover {
+  color: #00ffcc;
+}
+
+.progress {
+  height: 20px;
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+img {
+  border: 3px solid #00ffcc;
+  width: 150px;
+  height: 150px;
+}
